@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phone Info</string>
+    <string name="title_section1">HISTORY</string>
+    <string name="title_section2">RUNNING</string>
+    <string name="title_section3">GENERAL</string>
+    <string name="about">About</string>
+    <string name="free_memo">Free Memory Space</string>
+    <string name="button">Show Database</string>
+    <string name="fragment_a">This is Fragement A</string>
+    <string name="fragment_b">This is Fragement B</string>
+    <string name="fragment_c">This is Fragement C</string>
+    <string name="is">Internal Storage</string>
+    <string name="es">External Storage</string>
+    <string name="date">Date</string>
+    <string name="id">Id</string>
+
+</resources>
