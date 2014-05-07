@@ -146,7 +146,8 @@ public class MainActivity extends Activity implements ActionBar.TabListener {
 
         @Override
         public int getCount() {
-        return 3;// Show 3 total pages.
+        return 3;
+        // Show 3 total pages.
         }
 
         @Override
