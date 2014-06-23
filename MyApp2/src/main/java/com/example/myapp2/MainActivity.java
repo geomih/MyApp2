@@ -118,7 +118,8 @@ public class MainActivity extends Activity implements ActionBar.TabListener {
     }
 
 
-
+    //TODO Change tab with motion detection
+    //TODO Add sliding drawer
 
     /**
      * A {@link FragmentPagerAdapter} that returns a fragment corresponding to
